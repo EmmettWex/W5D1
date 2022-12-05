@@ -1,5 +1,4 @@
 class MaxIntSet
-
   attr_reader :store
 
   def initialize(max)
